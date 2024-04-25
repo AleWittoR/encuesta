@@ -43,13 +43,15 @@ a, a:before, a:after {
 
 .button {
   width: 300px;
-  text-align: center;
+  align: center;
   background: yellow;
   border: 2px solid yellow;
 }
 
 .button-box {
   padding: 25px;
+  margin-bottom:10%;
+  align: center;
   a {
     display: inline-block;  
   }
@@ -70,8 +72,8 @@ iframe{
   <p class="h2">Video 1</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
-<iframe src="hhttps://www.youtube.com/watch?v=a5i-KdUQ47o" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- <a href="#" class="button button-lr">Formulario</a>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="#" class="button button-lr">Formulario</a>
  </p>
 </div>
 
@@ -79,7 +81,7 @@ iframe{
   <p class="h2">Video 2</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
-<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
 </p>
 </div>
@@ -88,7 +90,7 @@ iframe{
   <p class="h2">Video 3</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
 </p>
 </div>

@@ -1,5 +1,5 @@
 title: Encuesta validación
-logo:/assets/img/imagen.png
+#logo: /assets/img/img.png
 #description: texto bajo la imagen
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman

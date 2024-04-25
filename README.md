@@ -75,8 +75,9 @@ iframe{
     <h1 class="titulo">Encuesta Validación</h1>
     <p class="h2">Creación de un juego de simulación interactivo seguro en realidad virtual inmersiva como herramienta de rehabilitación para paciente que padecen de heminegligencia</p>
     <p class="h4">Alejandra Witto Royo</p>
+    <hr>
     <p class="intro">Párrafo de introducción a la encuesta</p>
-    <hr></hr>
+    <hr>
 </div>
 
 <div class="videos">

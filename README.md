@@ -6,12 +6,12 @@
     background-color: midnightblue; 
 }
 
-h2{
+.h2{
     font-size: medium;
     color: darkgrey;
 }
 
-h4{
+.h4{
     font-size: small;
     color: darkgray;
 }
@@ -40,8 +40,8 @@ a, a:before, a:after {
 .button {
   width: 300px;
   text-align: center;
-  background: yellow;
-  border: 2px solid black;
+  background: none;
+  border: 2px solid yellow;
 }
 
 .button-box {
@@ -58,27 +58,27 @@ iframe{
 <div align="center">
     <h1 class="titulo">Encuesta Validación</h1>
     <h2>Creación de un juego de simulación interactivo seguro en realidad virtual inmersiva como herramienta de rehabilitación para paciente que padecen de heminegligencia</h2>
-    <h4>Alejandra Witto Royo</h4>
+    <p class="h4">Alejandra Witto Royo</p>
     <p>Párrafo de introducción a la encuesta</p>
 </div>
 
 <div>
-  <h2>Video 1</h2>
+  <p class="h2">Video 1</p>
   <p>Texto que acompaña al video</p>
-<iframe align="center" src="https://giphy.com/embed/video-id" width="80%" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="hhttps://www.youtube.com/watch?v=a5i-KdUQ47o" width="auto" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
  <a href="#" class="button button-lr">Formulario</a>
 </div>
 
 <div>
-  <h2>Video 2</h2>
+  <p class="h2">Video 2</p>
   <p>Texto que acompaña al video</p>
-<iframe src="https://giphy.com/embed/video-id" width="80%" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="auto" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
 </div>
 
 <div>
-  <h2>Video 3</h2>
+  <p class="h2">Video 3</p>
   <p>Texto que acompaña al video</p>
-<iframe src="https://giphy.com/embed/video-id" width="80%" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="auto" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
 </div>

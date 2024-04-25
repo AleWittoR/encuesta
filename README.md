@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 <div align="center">
     <h1>Encuesta Validación</h1>
 </div>

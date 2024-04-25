@@ -56,6 +56,7 @@ a, a:before, a:after {
   align: center;
   background: yellow;
   border: 2px solid yellow;
+  border-radius:15x;
 }
 
 .button-box {
@@ -105,4 +106,10 @@ iframe{
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
 </p>
+</div>
+
+<div>
+<hr>
+<p class="h4"> Escuela de Arquitectura y Diseño e[ad] PUCV</p>
+<p class="h4">2023-2024</p>
 </div>

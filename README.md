@@ -23,6 +23,7 @@ p.h2color{
 .h4{
     font-size: small;
     color: darkgray;
+    align:center;
 }
 
 p.intro{
@@ -56,7 +57,7 @@ a, a:before, a:after {
   align: center;
   background: yellow;
   border: 2px solid yellow;
-  border-radius:15x;
+  border-radius:15px;
 }
 
 .button-box {

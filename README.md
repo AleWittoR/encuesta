@@ -6,13 +6,17 @@
     background-color: midnightblue; 
 }
 
-.h2{
-    font-size: medium;
-    color: darkgrey;
+.videos{
+  margin:30px
 }
 
-.h2color{
+.h2{
     font-size: medium;
+    color: #222222;
+}
+
+p.h2color{
+    font-size: 2rem;
     color: midnightblue;
 }
 
@@ -74,7 +78,7 @@ iframe{
     <p class="intro">Párrafo de introducción a la encuesta</p>
 </div>
 
-<div>
+<div class="videos">
   <p class="h2color">Video 1</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
@@ -83,7 +87,7 @@ iframe{
  </p>
 </div>
 
-<div>
+<div class="videos">
   <p class="h2color">Video 2</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
@@ -92,7 +96,7 @@ iframe{
 </p>
 </div>
 
-<div>
+<div class="videos">
   <p class="h2color">Video 3</p>
   <p>Texto que acompaña al video</p>
   <p style="center">

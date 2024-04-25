@@ -78,33 +78,43 @@ iframe{
     <p class="h2">Creación de un juego de simulación interactivo seguro en realidad virtual inmersiva como herramienta de rehabilitación para paciente que padecen de heminegligencia</p>
     <p class="h4">Alejandra Witto Royo</p>
     <hr>
+   <! -- Aquí falta completar -->
     <p class="intro">Párrafo de introducción a la encuesta</p>
     <hr>
 </div>
 
 <div class="videos">
   <p class="h2color">Video 1</p>
+ <! -- Aquí falta completar -->
   <p>Texto que acompaña al video</p>
   <p style="center">
+  <! -- Aquí va el video -->
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<! -- en # va el link al formulario -->
 <a href="#" class="button button-lr">Formulario</a>
  </p>
 </div>
 
 <div class="videos">
   <p class="h2color">Video 2</p>
+  <! -- Aquí falta completar -->
   <p>Texto que acompaña al video</p>
   <p style="center">
+  <! -- Aquí va el video -->
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<! -- en # va el link al formulario -->
 <a href="#" class="button button-lr">Formulario</a>
 </p>
 </div>
 
 <div class="videos">
   <p class="h2color">Video 3</p>
+  <! -- Aquí falta completar -->
   <p>Texto que acompaña al video</p>
   <p style="center">
+  <! -- Aquí va el video -->
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<! -- en # va el link al formulario -->
 <a href="#" class="button button-lr">Formulario</a>
 </p>
 </div>

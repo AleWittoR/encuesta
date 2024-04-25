@@ -16,6 +16,10 @@
     color: darkgray;
 }
 
+.intro{
+  margin-bottom:3rem;
+}
+
 
 a {
   display: block;
@@ -57,28 +61,34 @@ iframe{
 
 <div align="center">
     <h1 class="titulo">Encuesta Validación</h1>
-    <h2>Creación de un juego de simulación interactivo seguro en realidad virtual inmersiva como herramienta de rehabilitación para paciente que padecen de heminegligencia</h2>
+    <p class="h2">Creación de un juego de simulación interactivo seguro en realidad virtual inmersiva como herramienta de rehabilitación para paciente que padecen de heminegligencia</p>
     <p class="h4">Alejandra Witto Royo</p>
-    <p>Párrafo de introducción a la encuesta</p>
+    <p class="intro">Párrafo de introducción a la encuesta</p>
 </div>
 
 <div>
   <p class="h2">Video 1</p>
   <p>Texto que acompaña al video</p>
-<iframe src="hhttps://www.youtube.com/watch?v=a5i-KdUQ47o" width="auto" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p style="center">
+<iframe src="hhttps://www.youtube.com/watch?v=a5i-KdUQ47o" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
  <a href="#" class="button button-lr">Formulario</a>
+ </p>
 </div>
 
 <div>
   <p class="h2">Video 2</p>
   <p>Texto que acompaña al video</p>
-<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="auto" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p style="center">
+<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
+</p>
 </div>
 
 <div>
   <p class="h2">Video 3</p>
   <p>Texto que acompaña al video</p>
-<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="auto" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p style="center">
+<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
+</p>
 </div>

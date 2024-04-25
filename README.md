@@ -11,6 +11,11 @@
     color: darkgrey;
 }
 
+.h2color{
+    font-size: medium;
+    color: midnightblue;
+}
+
 .h4{
     font-size: small;
     color: darkgray;
@@ -18,6 +23,7 @@
 
 p.intro{
   margin: 2em;
+  padding: 30px;
 }
 
 
@@ -69,7 +75,7 @@ iframe{
 </div>
 
 <div>
-  <p class="h2">Video 1</p>
+  <p class="h2color">Video 1</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -78,7 +84,7 @@ iframe{
 </div>
 
 <div>
-  <p class="h2">Video 2</p>
+  <p class="h2color">Video 2</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -87,7 +93,7 @@ iframe{
 </div>
 
 <div>
-  <p class="h2">Video 3</p>
+  <p class="h2color">Video 3</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

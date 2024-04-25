@@ -16,8 +16,8 @@
     color: darkgray;
 }
 
-.intro{
-  margin-bottom:3rem;
+p.intro{
+  margin: 2em;
 }
 
 
@@ -33,7 +33,7 @@ a {
 a, a:before, a:after {
   color: black;
   font-size: 1.4em;
-  font-weight: 300;
+  font-weight: 700;
   text-decoration: none;
   transition: all .20s ease;
   -webkit-transition: all .20s ease;
@@ -44,7 +44,7 @@ a, a:before, a:after {
 .button {
   width: 300px;
   text-align: center;
-  background: none;
+  background: yellow;
   border: 2px solid yellow;
 }
 
@@ -79,7 +79,7 @@ iframe{
   <p class="h2">Video 2</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
-<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
 </p>
 </div>
@@ -88,7 +88,7 @@ iframe{
   <p class="h2">Video 3</p>
   <p>Texto que acompaña al video</p>
   <p style="center">
-<iframe src="https://www.youtube.com/watch?v=a5i-KdUQ47o" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6366dxFf-Os?si=O25fMvXksvYkMvLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <a href="#" class="button button-lr">Formulario</a>
 </p>
 </div>

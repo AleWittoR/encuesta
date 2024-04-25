@@ -1,6 +1,6 @@
 <style>
 
-h1{
+.titulo{
     font-size: large;
     color: white;
     background-color: midnightblue; 
@@ -19,7 +19,7 @@ h4{
 
 a {
   display: block;
-  position: relative;
+  text-align:center;
   top: 0;
   left: 0;
   margin: 30px;
@@ -56,7 +56,7 @@ iframe{
 </style>
 
 <div align="center">
-    <h1>Encuesta Validación</h1>
+    <h1 class="titulo">Encuesta Validación</h1>
     <h2>Creación de un juego de simulación interactivo seguro en realidad virtual inmersiva como herramienta de rehabilitación para paciente que padecen de heminegligencia</h2>
     <h4>Alejandra Witto Royo</h4>
     <p>Párrafo de introducción a la encuesta</p>
@@ -65,7 +65,7 @@ iframe{
 <div>
   <h2>Video 1</h2>
   <p>Texto que acompaña al video</p>
-<iframe src="https://giphy.com/embed/video-id" width="80%" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe align="center" src="https://giphy.com/embed/video-id" width="80%" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
  <a href="#" class="button button-lr">Formulario</a>
 </div>
 

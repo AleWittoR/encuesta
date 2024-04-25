@@ -2,7 +2,8 @@
 
 h1{
     font-size: large;
-    color: midnightblue; 
+    color: white;
+    background-color: midnightblue; 
 }
 
 h2{
@@ -10,17 +11,11 @@ h2{
     color: darkgrey;
 }
 
-h3{
+h4{
     font-size: small;
     color: darkgray;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-$yellow: #f5da55;
-$black: #323330;
-
-$red: red;
-$blue: blue;
 
 a {
   display: block;
@@ -32,8 +27,7 @@ a {
 }
     
 a, a:before, a:after {
-  color: $black;
-  font-family: $OS;
+  color: black;
   font-size: 1.4em;
   font-weight: 300;
   text-decoration: none;
@@ -46,8 +40,8 @@ a, a:before, a:after {
 .button {
   width: 300px;
   text-align: center;
-  background: $yellow;
-  border: 2px solid $black;
+  background: yellow;
+  border: 2px solid black;
 }
 
 .button-box {
@@ -64,7 +58,7 @@ iframe{
 <div align="center">
     <h1>Encuesta Validación</h1>
     <h2>Creación de un juego de simulación interactivo seguro en realidad virtual inmersiva como herramienta de rehabilitación para paciente que padecen de heminegligencia</h2>
-    <p>Alejandra Witto Royo</p>
+    <h4>Alejandra Witto Royo</h4>
     <p>Párrafo de introducción a la encuesta</p>
 </div>
 

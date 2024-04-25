@@ -1,8 +1,4 @@
 <style>
-  div{
-    margin: 10%;
-    padding-bottom: 10%;
-}
 
 h1{
     font-size: large;
@@ -65,17 +61,19 @@ a, a:before, a:after {
   <h2>Video 1</h2>
   <p>Texto que acompaña al video</p>
 <iframe src="https://giphy.com/embed/video-id" width="80%" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- <a href="#" class="button button-lr">Left to Right</a>
+ <a href="#" class="button button-lr">Formulario</a>
 </div>
 
 <div>
   <h2>Video 2</h2>
   <p>Texto que acompaña al video</p>
 <iframe src="https://giphy.com/embed/video-id" width="80%" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<a href="#" class="button button-lr">Formulario</a>
 </div>
 
 <div>
   <h2>Video 3</h2>
   <p>Texto que acompaña al video</p>
 <iframe src="https://giphy.com/embed/video-id" width="80%" height="auto" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<a href="#" class="button button-lr">Formulario</a>
 </div>

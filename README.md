@@ -1,4 +1,25 @@
-<link href="style.css" rel="stylesheet"></link>
+<style>
+  div{
+    margin: 10%;
+    padding-bottom: 10%;
+}
+
+h1{
+    font-size: large;
+    color: midnightblue; 
+}
+
+h2{
+    font-size: medium;
+    color: darkgrey;
+}
+
+h3{
+    font-size: small;
+    color: darkgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+</style>
 
 <div align="center">
     <h1>Encuesta Validación</h1>

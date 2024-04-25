@@ -1,13 +1,25 @@
 <div align="center">
-    <h1> Creación de un juego de simulación interactivo seguro en realidad virtual inmersiva como herramienta de rehabilitación para paciente que padecen de heminegligencia</h1>
-    <h2>Proyecto de titulación</h2>
-    <h3 style="margin-bottom:10em;">Alejandra Witto Royo</h3>
+    <h1>Encuesta Validación</h1>
+</div>
+
+<div>
+<p>Párrafo de introducción a la encuesta</p>
 </div>
 
 <div>
   <h2>Video 1</h2>
   <p>Texto que acompaña al video</p>
+<iframe src="https://giphy.com/embed/video-id" width="40%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
-<iframe src="https://giphy.com/embed/video-id" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div>
+  <h2>Video 2</h2>
+  <p>Texto que acompaña al video</p>
+<iframe src="https://giphy.com/embed/video-id" width="40%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
+<div>
+  <h2>Video 3</h2>
+  <p>Texto que acompaña al video</p>
+<iframe src="https://giphy.com/embed/video-id" width="40%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
